@@ -1,13 +1,13 @@
 # 30 days of JavaScript
 I am challenging myself on JavaScript for 30 days. Inspired by Wes Bos's JavaScript30.
 I'm following through the JavaScript30 challenges and I'm exploring various JavaScript techniques to become a better programmer. 
-## Day-1 (24th sept)
+## Day-1 
 Web page with Audio buttons that reciprocate a sound from keyboard inputs (ASDF).
 
-## Day-2 (25th sept)
+## Day-2 
 Created a web page with a live clock with hour, minute and second hands.
 
-## Day-3 (26th sept)
+## Day-3 
 
 Learning how to update CSS variable using JS. Everywhere on the page that variable is referenced will update itself. Whereas in Sass you define the variables at compile time and you can't change it after that.
 
