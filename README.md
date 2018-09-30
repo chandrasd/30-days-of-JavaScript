@@ -19,3 +19,5 @@ JavaScript querySelectorAll('.controls input')
 This creates a nodeList and has lesser number of prototypes compared a normal Array. Most common practice is to convert it to an Array. 
 forEach() method in nodeList is only avaiable in newer versions of a browser.
 
+## Day-4
+Learned how to properly use .map(), .filter(), .sort(), .reduce() by doing 8 Array exercises. 
