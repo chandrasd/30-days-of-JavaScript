@@ -21,3 +21,9 @@ forEach() method in nodeList is only avaiable in newer versions of a browser.
 
 ## Day-4
 Learned how to properly use .map(), .filter(), .sort(), .reduce() by doing 8 Array exercises. 
+```JS
+const totalYears = inventors.reduce((total, inventor) => {
+        return total + (inventor.passed - inventor.year);
+    }, 0);
+ ```
+ The value of total is undefined therefore we needed to assign it as 0 by default.
